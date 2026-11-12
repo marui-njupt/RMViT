@@ -1,0 +1,8 @@
+# Select compatible torch/torchvision builds for your CPU or CUDA environment.
+torch
+torchvision
+numpy
+scikit-image
+pandas
+matplotlib
+Pillow
